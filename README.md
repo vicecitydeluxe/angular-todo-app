@@ -1,4 +1,5 @@
 # AngularTodoApp
+[Deployed app (GitHub Pages)](https://vicecitydeluxe.github.io/angular-todo-app/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
